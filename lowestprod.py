@@ -19,4 +19,3 @@ def lowest_product(input):
 
 if __name__ == "__main__":
 	print lowest_product("1234")
-	#lowest_product([1,2,6,2,4,1,4,2,3,1,2,3,5,1,2,4,2,4,3])
